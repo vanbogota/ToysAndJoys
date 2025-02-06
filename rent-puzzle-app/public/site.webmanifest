@@ -1,0 +1,23 @@
+{
+    "name": "Puzzle Rent",
+    "app_name": "Puzzle Rent",
+    "short_name": "Puzzles",
+    "description": "App for puzzle sharing",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
